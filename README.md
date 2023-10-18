@@ -22,6 +22,7 @@
 
 ### II. 방법
 
+![Workflow](https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%ED%95%B4%EB%B2%95%EC%88%98%ED%95%99_workflow.png "Workflow")
 
 i) 데이터 수집
 통계청 사이트에서 2015년부터 2021년까지의 지역별 개인소득, 1인당 사교육비, 시도별 인구수, 교육 서비스업 관련, 학교 시설관련, 사교육 참여율 데이터를 수집했다. 시군구별 인구 데이터는 2022년의 데이터를 수집했다.  
@@ -53,6 +54,7 @@ iii) 시각화
 iv) 거리 비교
 파이썬 folium 패키지를 이용해서 시각적으로 확인한 인구수와 학원과의 상관관계를 검증하기 위해서 거리를 비교했다. 학원을 주로 이용하는 인구는 학교에 다니는 학생이기 때문에 초등학교와 각 기업별 위치의 거리를 구하기 위해서 두 점 사이의 거리를 구하는 공식을 이용했다.
 
+<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EB%91%90%20%EC%A0%90%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B1%B0%EB%A6%AC.png" width="300px" height="150px">
 
 하지만 위의 공식은 평면에서의 두 점 사이의 거리를 구하는 경우에 해당하기 때문에 구 형태인 지구에서 두 지점 사이의 거리를 구하는 하버사인 공식을 이용해서 실제 거리도 구하였다. φ1와 φ2는 초등학교와 학원의 각 위도를 의미하며, λ1와 λ2는 초등학교와 학원의 각 경도를 의미한다.
 
@@ -65,7 +67,7 @@ $$
 
 ### III.결과
 
-그림
+<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84_%EC%A7%80%EC%A0%90%EC%88%98.png" width="700" height="400">
 
 지역별 해법수학 지점수 분포를 나타내는 그래프이다. 경기 지역에서 가장 많은 분포를 보이고 있으며, 서울, 경남 부산 등이 뒤를 따르고, 제주 지역에서 가장 적은 분포를 보이는 것을 알 수 있다.
 
