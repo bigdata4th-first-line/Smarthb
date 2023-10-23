@@ -87,9 +87,9 @@ $$
 
 위에서 정의한 학원은 일반 교과 뿐 아니라 다른 분야의 학원도 포함돼 있으며, 한국교육개발원에서 조사한 데이터를 기준으로 하고 있다. 대한민국의 높은 학구열과 일반 교과 학원 중 업계 상위권을 차지하고 있는 해법수학이 전체 학원 중에서도 높은 비율을 차지하지 않을까 예상했지만, 전체 학원수에 비하면 아주 낮은 비율의 수준이라 그래프에 표시하지 못했다. 편차가 큰 지역도 있지만 대부분의 지역에서 우상향하는 추세를 보인다.
 
-| <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%ED%95%B4%EB%B2%95%EC%88%98%ED%95%99_%EC%9D%B8%EA%B5%AC_%EC%A7%80%EC%A0%90%EC%88%98.png"> <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EA%B2%BD%EC%9F%81%EC%82%AC_%EC%9D%B8%EA%B5%AC_%EC%A7%80%EC%A0%90%EC%88%98.png"> |
+| (a) <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%ED%95%B4%EB%B2%95%EC%88%98%ED%95%99_%EC%9D%B8%EA%B5%AC_%EC%A7%80%EC%A0%90%EC%88%98.png"> <p> (b) PearsonRResult(statistic=0.86, pvalue=2.95e-68) <p> (c) <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EA%B2%BD%EC%9F%81%EC%82%AC_%EC%9D%B8%EA%B5%AC_%EC%A7%80%EC%A0%90%EC%88%98.png"> <p> (d) PearsonRResult(statistic=0.73, pvalue=1.31e-39) <p> (e) Z-score = 3.79, p-value = 7.50e-05|
 |:--:|
-| <b> [Figure2] 2022 년 서울의 사교육비와 특목고, 자율고 진학비율의 스피어만 상관계수 분석 그래프 </b> |
+| <b> [Figure6] (a) 시군구별 인구수에 따른 해법수학 지점 수 (b) 시군구별 인구수와 해법수학 지점 수 사이의 상관계수 및 p-value (c) 시군구별 인구수에 따른 웅진홈스쿨 지점 수 (d) 시군구별 인구수와 웅진홈스쿨 지점 수 사이의 상관계수 및 p-value (e) 해법수학과 웅진홈스쿨 사이의 상관계수 차이 검정 결과 </b> |
 사교육비와 진학률의 상관관계는 2018~2022년까지의 17개 지역 모두 p-value가 0.05 이상인 결과를 보인다. <br>따라서 귀무가설을 기각할 수 없어 통계적으로 유의하다고 할 수 없다.
 
 해법수학과 웅진홈스쿨 모두 인구수와 지점수 사이의 강력한 상관관계를 나타냈다. 이후 두 상관관계 중 해법수학이 더 강력한 상관관계를 나타낸다는 가설을 증명하기 위해 상관계수의 차이를 검정했다. Z-score는 3.79로 나타났고 유의확률이 유의수준 0.05보다 작기 때문에 귀무가설을 기각하고 대립가설을 채택해서 해법수학과 인구수의 상관계수가 웅진홈스쿨과 인구수의 상관계수보다 높다고 주장할 수 있다.
