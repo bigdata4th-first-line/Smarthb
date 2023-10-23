@@ -67,42 +67,43 @@ $$
 
 ### III.결과
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84_%EC%A7%80%EC%A0%90%EC%88%98.png" width="700" height="400">
-
+| <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84_%EC%A7%80%EC%A0%90%EC%88%98.png"> |
+|:--:|
+| <b> [Figure1] 지역별 해법수학 지점수 </b> |
 지역별 해법수학 지점수 분포를 나타내는 그래프이다. 경기 지역에서 가장 많은 분포를 보이고 있으며, 서울, 경남 부산 등이 뒤를 따르고, 제주 지역에서 가장 적은 분포를 보이는 것을 알 수 있다.
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84%201%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84_5%EA%B0%9C%20%EA%B5%90%EA%B3%BC.png">
-
+| <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84%201%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84_5%EA%B0%9C%20%EA%B5%90%EA%B3%BC.png"> |
+|:--:|
+| <b> [Figure2] 지역별 1인당 월 평균 사교육비 추세 </b> |
 대도시와 서울의 월평균 사교육비 추세는 우상향하고 있으며, 특히 영어 수학 과목의 상승세가 가장 가파르다. 영어, 수학의 겨우 대도시 뿐 아니라 중소도시, 읍면지역에서도 가파른 상승세를 보여준다.
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84%201%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84_%ED%95%99%EC%8A%B5%EB%B0%A9%EB%B2%95.png">
-
+| <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84%201%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84_%ED%95%99%EC%8A%B5%EB%B0%A9%EB%B2%95.png"> |
+|:--:|
+| <b> [Figure3] 사교육 경로 추세 (2007-2022) </b> |
 해법수학이 오프라인 매장임을 고려하여 어떤 경로로 사교육을 주로 소비하는지 분석했다. 학원 수강이 압도적으로 높은 지출을 보여줬고, 방문 학습지의 경우 모든 지역에서 하락하는 추세를 보인다. 통신 학습이 학원 수강과 경쟁구도를 보이지 않을까 예상했지만, 의외로 낮은 소비율과 추세를 보였다.
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/1%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%B4%88%EC%A4%91%EA%B3%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84.png">
-
+| <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/1%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%B4%88%EC%A4%91%EA%B3%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84.png"> |
+|:--:|
+| <b> [Figure4] 초, 중, 고 지역별 사교육비 추세(2014-2022) </b> |
 대학 진학을 위한 고등학교에서 가장 높은 사교육비가 나가지 않을까 예상했지만, 의외로 중학교 시기 사교육비 지출이 높은 경우가 많았다. 한 가지 특이한 점은 2014년 대비 고등학교 사교육비 추세가 모든 지역에서 가장 가파른 상승세를 보이고 있다는 것이다.
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%8B%9C%EB%8F%84%EB%B3%84%20%ED%95%99%EC%9B%90%20%EC%88%98%20%EC%B6%94%EC%84%B8.png">
-
+| <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%8B%9C%EB%8F%84%EB%B3%84%20%ED%95%99%EC%9B%90%20%EC%88%98%20%EC%B6%94%EC%84%B8.png"> |
+|:--:|
+| <b> [Figure5] 국내 지역별 학원 수 및 추세 (2002-2022) </b> |
 위에서 정의한 학원은 일반 교과 뿐 아니라 다른 분야의 학원도 포함돼 있으며, 한국교육개발원에서 조사한 데이터를 기준으로 하고 있다. 대한민국의 높은 학구열과 일반 교과 학원 중 업계 상위권을 차지하고 있는 해법수학이 전체 학원 중에서도 높은 비율을 차지하지 않을까 예상했지만, 전체 학원수에 비하면 아주 낮은 비율의 수준이라 그래프에 표시하지 못했다. 편차가 큰 지역도 있지만 대부분의 지역에서 우상향하는 추세를 보인다.
 
 | (a) <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%ED%95%B4%EB%B2%95%EC%88%98%ED%95%99_%EC%9D%B8%EA%B5%AC_%EC%A7%80%EC%A0%90%EC%88%98.png"> <p> (b) PearsonRResult(statistic=0.86, pvalue=2.95e-68) <p> (c) <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EA%B2%BD%EC%9F%81%EC%82%AC_%EC%9D%B8%EA%B5%AC_%EC%A7%80%EC%A0%90%EC%88%98.png"> <p> (d) PearsonRResult(statistic=0.73, pvalue=1.31e-39) <p> (e) Z-score = 3.79, p-value = 7.50e-05|
 |:--:|
 | <b> [Figure6] (a) 시군구별 인구수에 따른 해법수학 지점 수 (b) 시군구별 인구수와 해법수학 지점 수 사이의 상관계수 및 p-value (c) 시군구별 인구수에 따른 웅진홈스쿨 지점 수 (d) 시군구별 인구수와 웅진홈스쿨 지점 수 사이의 상관계수 및 p-value (e) 해법수학과 웅진홈스쿨 사이의 상관계수 차이 검정 결과 </b> |
-사교육비와 진학률의 상관관계는 2018~2022년까지의 17개 지역 모두 p-value가 0.05 이상인 결과를 보인다. <br>따라서 귀무가설을 기각할 수 없어 통계적으로 유의하다고 할 수 없다.
-
 해법수학과 웅진홈스쿨 모두 인구수와 지점수 사이의 강력한 상관관계를 나타냈다. 이후 두 상관관계 중 해법수학이 더 강력한 상관관계를 나타낸다는 가설을 증명하기 위해 상관계수의 차이를 검정했다. Z-score는 3.79로 나타났고 유의확률이 유의수준 0.05보다 작기 때문에 귀무가설을 기각하고 대립가설을 채택해서 해법수학과 인구수의 상관계수가 웅진홈스쿨과 인구수의 상관계수보다 높다고 주장할 수 있다.
 
-지도 시각화
-
+| <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EB%8F%84.png"> |
+|:--:|
+| <b> [Figure7] 시도별 인구수(명) 및 시도별 스마트해법 지점 수 </b> |
 각 시도별 인구수(명)와 스마트해법의 지점 수를 지도로 확인한 결과, 인구가 밀집되어 있는 지역에 스마트해법의 지점이 많이 분포되어 있는 것을 확인할 수 있었다. 그래서 인구 중에서도 학원을 이용하는 인구는 주로 학생이기 때문에 학원과 학교와의 거리를 비교했다. 우선, 위도와 경도 데이터를 이용해서 두 점 사이의 거리를 측정했지만, p-value가 약 0.59로 유의하지 않게 나왔다.
-
-*Ttest_ind Result*
-
+Ttest_ind Result(statistic=0.53, pvalue=0.59)
 다음으로는 단순히 위도와 경도 값을 점으로 보고 거리를 구하는 것이 아니라 지구가 구의 형태인 점을 감안해서 실제 거리를 구할 수 있는 하버사인 공식을 이용해서 학교와 학원사이의 거리를 측정했지만, 이도 유의수준이 약 0.89로 유의하지 않게 나왔기 때문에 귀무가설을 채택하고, 학원과 학교와의 거리는 업계 내의  점유율과 유의미한 영향을 미치지 않는다고 주장할 수 있다. 
-
-*Ttest_ind Result*
+Ttest_ind Result(statistic=-0.13, pvalue=0.90)
 
 ### IV. 논의
 i) [그림 2]부터 [그림 5]까지의 전체적인 추세를 보면 1인당 사교육비 지출은 증가하고 있고 그 중에서도 수학과 영어 과목이 현재도 높고 상승 추세도 높았다. [그림 3]의 사교육 유형으로 보자면 학원을 통한 지출이 가장 높았고 상승 추세도 가파르다. [그림 4]의 초중고별 사교육비 추세를 보면 초등학생의 사교육비 지출 증가는 중, 고등에 비해 상대적으로 완만하다. 그에 비해 고등학생의 사교육비는 가파르게 증가하고 있다. [그림 5]의 지역별 학원 수 추세 역시 전체적으로 증가하는 것을 볼 수 있으나 수도권에 비해 지방은 변동이 크다.
