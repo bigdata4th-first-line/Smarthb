@@ -117,21 +117,21 @@ iv) 분석결과 해법수학 학원 지점은 인구 수가 많은 지역에 �
 
 
 ### V. 사용 라이브러리
-pandas Python package (version 1.5.3)
-plotly Python package (version 5.9.0)
-selenium Python package (version 4.10.0)
-Matplotlib Python package (version 3.7.0)
-geopy Python package (version 2.3.0)
-folium Python package (version 0.14.0)
-json Python package (version 2.0.9)
-dash Python package (version 2.9.3)
-scipy Python package (version 1.10.0)
-statsmodels Python package (version 0.14.0)
+pandas Python package (version 1.5.3)  
+plotly Python package (version 5.9.0)  
+selenium Python package (version 4.10.0)  
+Matplotlib Python package (version 3.7.0)  
+geopy Python package (version 2.3.0)  
+folium Python package (version 0.14.0)  
+json Python package (version 2.0.9)  
+dash Python package (version 2.9.3)  
+scipy Python package (version 1.10.0)  
+statsmodels Python package (version 0.14.0)  
 
 
 ### VI. 참고문헌
-한영은, 이승철 "안양시 평촌 학원가의 교육 서비스 실태 및 공간 범위에 관한 연구" 한국경제지리학회지 15.4 pp.721-734 (2012) : 721.
-김태환, 김은란, 신휴석, 이혜민, 박미래, 이혜진 "지역별 소득 격차와 불균형" 국토연구원 균형발전 모니터링 & 이슈 Brief, 제7호 (2021)
-강용호. "프랜차이즈 시스템 확장을 위한 상권 및 입지분석 모형설정에 관한 연구." 국내석사학위논문 漢陽大學校 都市大學院, 2009. 서울
-박소현, 이금숙 "사교육 시설의 수요와 공급에 나타나는 공간적 특성: 수도권 지역 사설학원을 중심으로" 한국경제지리학회지 14.1 pp.33-51 (2011) : 33.
-Fisher, Ronald Aylmer. "014: On the" Probable Error" of a Coefficient of Correlation Deduced from a Small Sample." (1921).
+한영은, 이승철 "안양시 평촌 학원가의 교육 서비스 실태 및 공간 범위에 관한 연구" 한국경제지리학회지 15.4 pp.721-734 (2012) : 721.  
+김태환, 김은란, 신휴석, 이혜민, 박미래, 이혜진 "지역별 소득 격차와 불균형" 국토연구원 균형발전 모니터링 & 이슈 Brief, 제7호 (2021)  
+강용호. "프랜차이즈 시스템 확장을 위한 상권 및 입지분석 모형설정에 관한 연구." 국내석사학위논문 漢陽大學校 都市大學院, 2009. 서울  
+박소현, 이금숙 "사교육 시설의 수요와 공급에 나타나는 공간적 특성: 수도권 지역 사설학원을 중심으로" 한국경제지리학회지 14.1 pp.33-51 (2011) : 33.  
+Fisher, Ronald Aylmer. "014: On the" Probable Error" of a Coefficient of Correlation Deduced from a Small Sample." (1921).  
