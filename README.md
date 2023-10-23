@@ -71,23 +71,26 @@ $$
 
 지역별 해법수학 지점수 분포를 나타내는 그래프이다. 경기 지역에서 가장 많은 분포를 보이고 있으며, 서울, 경남 부산 등이 뒤를 따르고, 제주 지역에서 가장 적은 분포를 보이는 것을 알 수 있다.
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84%201%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84_5%EA%B0%9C%20%EA%B5%90%EA%B3%BC.png" width="800" height="550">
+<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84%201%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84_5%EA%B0%9C%20%EA%B5%90%EA%B3%BC.png">
 
 대도시와 서울의 월평균 사교육비 추세는 우상향하고 있으며, 특히 영어 수학 과목의 상승세가 가장 가파르다. 영어, 수학의 겨우 대도시 뿐 아니라 중소도시, 읍면지역에서도 가파른 상승세를 보여준다.
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84%201%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84_%ED%95%99%EC%8A%B5%EB%B0%A9%EB%B2%95.png" width="800" height="500">
+<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%A7%80%EC%97%AD%EB%B3%84%201%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84_%ED%95%99%EC%8A%B5%EB%B0%A9%EB%B2%95.png">
 
 해법수학이 오프라인 매장임을 고려하여 어떤 경로로 사교육을 주로 소비하는지 분석했다. 학원 수강이 압도적으로 높은 지출을 보여줬고, 방문 학습지의 경우 모든 지역에서 하락하는 추세를 보인다. 통신 학습이 학원 수강과 경쟁구도를 보이지 않을까 예상했지만, 의외로 낮은 소비율과 추세를 보였다.
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/1%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%B4%88%EC%A4%91%EA%B3%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84.png" width="800" height="500">
+<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/1%EC%9D%B8%EB%8B%B9%20%EC%9B%94%ED%8F%89%EA%B7%A0%20%EC%B4%88%EC%A4%91%EA%B3%A0%20%EC%82%AC%EA%B5%90%EC%9C%A1%EB%B9%84.png">
 
 대학 진학을 위한 고등학교에서 가장 높은 사교육비가 나가지 않을까 예상했지만, 의외로 중학교 시기 사교육비 지출이 높은 경우가 많았다. 한 가지 특이한 점은 2014년 대비 고등학교 사교육비 추세가 모든 지역에서 가장 가파른 상승세를 보이고 있다는 것이다.
 
-<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%8B%9C%EB%8F%84%EB%B3%84%20%ED%95%99%EC%9B%90%20%EC%88%98%20%EC%B6%94%EC%84%B8.png" width="700" height="400">
+<img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EC%8B%9C%EB%8F%84%EB%B3%84%20%ED%95%99%EC%9B%90%20%EC%88%98%20%EC%B6%94%EC%84%B8.png">
 
 위에서 정의한 학원은 일반 교과 뿐 아니라 다른 분야의 학원도 포함돼 있으며, 한국교육개발원에서 조사한 데이터를 기준으로 하고 있다. 대한민국의 높은 학구열과 일반 교과 학원 중 업계 상위권을 차지하고 있는 해법수학이 전체 학원 중에서도 높은 비율을 차지하지 않을까 예상했지만, 전체 학원수에 비하면 아주 낮은 비율의 수준이라 그래프에 표시하지 못했다. 편차가 큰 지역도 있지만 대부분의 지역에서 우상향하는 추세를 보인다.
 
-
+| <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%ED%95%B4%EB%B2%95%EC%88%98%ED%95%99_%EC%9D%B8%EA%B5%AC_%EC%A7%80%EC%A0%90%EC%88%98.png"> <img src="https://github.com/bigdata4th-first-line/Smarthb/blob/main/images/%EA%B2%BD%EC%9F%81%EC%82%AC_%EC%9D%B8%EA%B5%AC_%EC%A7%80%EC%A0%90%EC%88%98.png"> |
+|:--:|
+| <b> [Figure2] 2022 년 서울의 사교육비와 특목고, 자율고 진학비율의 스피어만 상관계수 분석 그래프 </b> |
+사교육비와 진학률의 상관관계는 2018~2022년까지의 17개 지역 모두 p-value가 0.05 이상인 결과를 보인다. <br>따라서 귀무가설을 기각할 수 없어 통계적으로 유의하다고 할 수 없다.
 
 해법수학과 웅진홈스쿨 모두 인구수와 지점수 사이의 강력한 상관관계를 나타냈다. 이후 두 상관관계 중 해법수학이 더 강력한 상관관계를 나타낸다는 가설을 증명하기 위해 상관계수의 차이를 검정했다. Z-score는 3.79로 나타났고 유의확률이 유의수준 0.05보다 작기 때문에 귀무가설을 기각하고 대립가설을 채택해서 해법수학과 인구수의 상관계수가 웅진홈스쿨과 인구수의 상관계수보다 높다고 주장할 수 있다.
 
